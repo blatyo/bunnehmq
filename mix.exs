@@ -29,6 +29,6 @@ defmodule BunnehMQ.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:rabbit_common, "~> 3.6"}]
   end
 end

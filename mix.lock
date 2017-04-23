@@ -1,0 +1,1 @@
+%{"rabbit_common": {:hex, :rabbit_common, "3.6.9", "d54e1bc366f5f553a75055dfc6c93f0025efee0322f98bdf8597aff8482b996d", [:make, :rebar3], []}}
